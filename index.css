@@ -1,0 +1,19 @@
+ul button {
+    margin-left: 15px;
+    background-attachment: pink;
+}
+
+@media (max-width: 700px) {
+    /* body {
+        background-color: #FF0000;
+    } 
+    #add_task_button {
+        display: none;
+    }*/
+}
+    h2{
+        background-color: blueviolet;
+    }
+    body{
+        background-color: burlywood;
+    }
